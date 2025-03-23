@@ -1,7 +1,5 @@
 # 🚀 Eklavya AI: Ancient Wisdom Meets Modern AI 🧠⚡
 
-![Eklavya AI Banner](https://source.unsplash.com/featured/?technology,ai,success)
-
 ## 🌟 What is Eklavya AI?
 Welcome to **Eklavya AI**, the ultimate AI-powered platform that fuses **ancient wisdom** 🏛️ with **cutting-edge AI** 🤖 to help users become **Job-Ready Professionals**, **Entrepreneurs**, or **Successful Individuals**! 
 
