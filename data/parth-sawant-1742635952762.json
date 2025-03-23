@@ -1,0 +1,33 @@
+{
+  "personalInfo": {
+    "name": "parth sawant",
+    "email": "sawant.parth15@gmail.com",
+    "phone": "9619104761",
+    "address": "113 vijay garden",
+    "linkedin": "https://www.linkedin.com/in/parth-sawant-883a2a28a",
+    "website": "https://elearn.apsit.edu.in"
+  },
+  "summary": "Identifying the core challenges faced by Tier 2 & Tier 3 college students is crucial. These students often lack access to structured learning resources, professional mentorship, and AI-driven career guidance. The absence of tailored learning tools and real-world interview preparation creates a gap in employability. Eklavya AI aims to bridge this gap by offering curated learning resources, AI-powered assessments, and interactive mentorship\nIntroducing Eklavya AI, an AI-driven career guidance and interview preparation platform tailored for Tier 2 & Tier 3 college students. Our solution integrates:\n✅ AI-powered interview simulations for real-world readiness ✅ Personalized learning paths based on industry trends ✅ Mentorship from industry experts for career guidance ✅ Automated resume analysis with AI-driven improvements ✅ Gamified learning & ranking system to encourage engagement\nEmpowering students with practical skills, real interview exposure, and expert mentorship, Eklavya AI ensures better job opportunities and career success. this we are making in hacathon",
+  "education": [
+    {
+      "institution": "ap shah",
+      "degree": "bachler",
+      "field": "computer science",
+      "from": "2022",
+      "to": "2026",
+      "gpa": "6.0"
+    }
+  ],
+  "experience": [
+    {
+      "company": "elite",
+      "position": "software enginner",
+      "from": "01/2005",
+      "to": "12/2026",
+      "description": "Identifying the core challenges faced by Tier 2 & Tier 3 college students is crucial. These students often lack access to structured learning resources, professional mentorship, and AI-driven career guidance. The absence of tailored learning tools and real-world interview preparation creates a gap in employability. Eklavya AI aims to bridge this gap by offering curated learning resources, AI-powered assessments, and interactive mentorship\nIntroducing Eklavya AI, an AI-driven career guidance and interview preparation platform tailored for Tier 2 & Tier 3 college students. Our solution integrates:\n✅ AI-powered interview simulations for real-world readiness ✅ Personalized learning paths based on industry trends ✅ Mentorship from industry experts for career guidance ✅ Automated resume analysis with AI-driven improvements ✅ Gamified learning & ranking system to encourage engagement\nEmpowering students with practical skills, real interview exposure, and expert mentorship, Eklavya AI ensures better job opportunities and career success. this we are making in hacathon"
+    }
+  ],
+  "skills": [
+    "javascript,html,css"
+  ]
+}
