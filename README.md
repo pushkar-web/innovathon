@@ -13,6 +13,9 @@ Welcome to **Eklavya AI**, the ultimate AI-powered platform that fuses **ancient
 ✅ **💻 AI Mock Tests & Coding Challenges** – Master skills & ace interviews.
 ✅ **🏆 Gamification & Leaderboard** – Compete, earn XP, and get rewarded!
 
+## 🎥 Watch the Introduction Video 🎬
+[![Eklavya AI Video](https://img.youtube.com/vi/1NsZzhhHPVI8TT2dBxe7ZOeIrBf0Xu7Jz/0.jpg)](https://drive.google.com/file/d/1NsZzhhHPVI8TT2dBxe7ZOeIrBf0Xu7Jz/view?usp=sharing)
+
 ## 🏆 How It Works? (Super Simple!)
 1️⃣ **Sign Up & Choose Your Path** 🛤️
    - **🎓 Job-Ready Professional** – AI Resume, career training & interviews.
@@ -36,10 +39,10 @@ Welcome to **Eklavya AI**, the ultimate AI-powered platform that fuses **ancient
 💎 **Corporate Partnerships** – AI-driven career acceleration for employees.
 
 ## 🛠️ Tech Stack ⚙️
-🎨 **Frontend:** NextJS, Tailwind CSS 🚀
+🎨 **Frontend:** React, Tailwind CSS 🚀
 ⚡ **Backend:** Node.js, Express 💻
 🧠 **AI Models:** Hugging Face NLP, AI Resume Analysis, AI Mock Interview 🤖
-📦 **Database:** MongoDB 🔥
+📦 **Database:** PostgreSQL / Firebase 🔥
 🌎 **Deployment:** AWS / Vercel / Heroku ☁️
 
 ## 🛠️ How to Get Started? 🚀
@@ -60,5 +63,6 @@ npm start
 🚀 **AI-powered mentorship, skill-building & career acceleration!**
 🚀 **Gamified learning experience that keeps you engaged!**
 🚀 **Empowers YOU to become job-ready, an entrepreneur, or a successful leader!**
+
 
 🔥 **Join the Future of Learning! Level Up with Eklavya AI!** 🔥
