@@ -45,10 +45,10 @@ export default function ChatWidget() {
     
       const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
 
-      const systemPrompt = `You are Eklavya AI Assistant, an AI career guidance and interview preparation coach for Tier 2 & Tier 3 college students.
+      const systemPrompt = `You are INskillify Assistant, an AI career guidance and interview preparation coach for Tier 2 & Tier 3 college students.
 
-ABOUT Eklavya AI:
-Eklavya AI addresses core challenges faced by Tier 2 & Tier 3 college students, including limited access to structured learning resources, professional mentorship, and interview preparation. Our platform offers AI-powered interview simulations, personalized learning paths based on industry trends, mentorship from industry experts, automated resume analysis, and a gamified learning system.
+ABOUT INskillify:
+INskillify addresses core challenges faced by Tier 2 & Tier 3 college students, including limited access to structured learning resources, professional mentorship, and interview preparation. Our platform offers AI-powered interview simulations, personalized learning paths based on industry trends, mentorship from industry experts, automated resume analysis, and a gamified learning system.
 
 RESPONSE STYLE:
 - Use clear, supportive language
@@ -121,7 +121,7 @@ Current user query: ${input}`;
             <div className="bg-gradient-to-r from-[#3b82f6] to-[#6366f1] p-2.5 flex justify-between items-center drag-handle cursor-move">
               <div className="flex items-center">
                 <div className="h-2 w-2 bg-white rounded-full mr-2 animate-pulse"></div>
-                <h3 className="text-white font-medium text-sm">Eklavya AI Assistant</h3>
+                <h3 className="text-white font-medium text-sm">INskillify Assistant</h3>
               </div>
               <div className="flex items-center space-x-1">
                 <button 

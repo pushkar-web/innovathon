@@ -14,7 +14,7 @@ const AboutUs = () => {
             </h2>
             
             <p className="text-lg text-gray-600 leading-relaxed">
-              Eklavya AI is dedicated to bridging the employability gap for students from Tier 2 and Tier 3 
+              INskillify is dedicated to bridging the employability gap for students from Tier 2 and Tier 3 
               colleges through AI-powered tools, personalized learning resources, and professional mentorship.
             </p>
             
@@ -64,7 +64,7 @@ const AboutUs = () => {
             <div className="rounded-2xl overflow-hidden shadow-xl transform hover:scale-105 transition-transform duration-300">
               <img
                 src="/images/student2.webp"
-                alt="Eklavya AI Platform"
+                alt="INskillify AI Platform"
                 className="w-full h-auto object-cover"
               />
             </div>

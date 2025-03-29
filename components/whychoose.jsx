@@ -6,7 +6,7 @@ export default function WhyChooseUs() {
     <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-gray-50 px-4 py-12">
       {/* Header Section */}
       <div className="text-center mb-16">
-        <h1 className="text-4xl font-bold mb-4">Why Choose Eklavya AI?</h1>
+        <h1 className="text-4xl font-bold mb-4">Why Choose INskillify?</h1>
         <p className="text-gray-500 max-w-3xl mx-auto">
           We provide comprehensive career development services through an AI-powered platform,
           connecting Tier 2 & 3 college students with learning resources, interview practice, and mentorship.

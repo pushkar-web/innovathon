@@ -66,7 +66,7 @@ export default function HeroSection() {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.5, duration: 0.5 }}
           >
-            Eklavya AI provides AI-powered interview simulations, personalized learning paths, and expert 
+            INskillify AI provides AI-powered interview simulations, personalized learning paths, and expert 
             mentorship to help you secure better job opportunities and achieve career success.
           </motion.p>
           <motion.div 

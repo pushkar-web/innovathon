@@ -10,7 +10,7 @@ const AnimatedTestimonials = () => {
       name: "Rahul Singh",
       role: "Computer Science Graduate",
       image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&h=150&q=80",
-      quote: "Eklavya AI transformed my job search completely. The AI interview practice helped me overcome my nervousness and I landed a role at a top tech company after just 3 weeks!",
+      quote: "INskillify transformed my job search completely. The AI interview practice helped me overcome my nervousness and I landed a role at a top tech company after just 3 weeks!",
       rating: 5,
       company: "Tier 2 Engineering College"
     },

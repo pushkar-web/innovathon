@@ -27,7 +27,7 @@ export default function EklavyaPlus() {
     {
       category: 'learning',
       question: "How are personalized learning paths created?",
-      answer: "Eklavya AI analyzes current industry trends, your academic background, skill gaps, and career aspirations to generate tailored learning paths. These pathways include curated video tutorials, interactive coding exercises, industry-relevant projects, and skill assessments. The AI continuously adapts your learning journey based on your progress and changing market demands."
+      answer: "INskillify AI analyzes current industry trends, your academic background, skill gaps, and career aspirations to generate tailored learning paths. These pathways include curated video tutorials, interactive coding exercises, industry-relevant projects, and skill assessments. The AI continuously adapts your learning journey based on your progress and changing market demands."
     },
     {
       category: 'mentorship',
@@ -56,7 +56,7 @@ export default function EklavyaPlus() {
     },
     {
       category: 'resume',
-      question: "Can Eklavya AI help me showcase projects in my portfolio?",
+      question: "Can INskillify AI help me showcase projects in my portfolio?",
       answer: "Absolutely! Beyond resume building, Eklavya AI helps you develop an impressive digital portfolio highlighting your projects, skills, and achievements. The platform guides you through creating detailed project documentation, includes GitHub integration for code repositories, and offers templates for showcasing your work effectively to potential employers."
     }
   ];
@@ -208,7 +208,7 @@ export default function EklavyaPlus() {
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-blue-700"> Questions</span>
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Everything you need to know about Eklavya AI and how it empowers your career
+              Everything you need to know about INskillify AI and how it empowers your career
             </p>
           </div>
 

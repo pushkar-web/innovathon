@@ -81,7 +81,7 @@ export default function ContactPage() {
                   <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600"> Eklavya AI</span>
                 </h2>
                 <p className="text-gray-600 text-base md:text-lg leading-relaxed">
-                  Eklavya AI bridges the employability gap for Tier 2 & Tier 3 college students through AI-powered interview simulations, 
+                  INskillify AI bridges the employability gap for Tier 2 & Tier 3 college students through AI-powered interview simulations, 
                   personalized learning paths, industry expert mentorship, automated resume analysis, and gamified learning systems.
                 </p>
               </div>
@@ -201,7 +201,7 @@ export default function ContactPage() {
 
         {/* Features Section */}
         <div className="container mx-auto px-4 py-12">
-          <h2 className="text-3xl font-bold text-center mb-12 text-gray-900">How Eklavya AI Empowers Students</h2>
+          <h2 className="text-3xl font-bold text-center mb-12 text-gray-900">How INskillify AI Empowers Students</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {[
               {
@@ -254,7 +254,7 @@ export default function ContactPage() {
             allowFullScreen=""
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
-            title="Eklavya AI Office Location"
+            title="INskillify AI Office Location"
           ></iframe>
         </div>
       </main>

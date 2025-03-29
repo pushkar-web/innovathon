@@ -6,7 +6,7 @@ export default function LowerFooter() {
   return (
     <div className="bg-white">
       <Head>
-        <title>Eklavya AI | Career Guidance for College Students</title>
+        <title>INskillify | Career Guidance for College Students</title>
         <meta name="description" content="AI-driven career guidance platform for Tier 2 & Tier 3 college students" />
         <link rel="icon" href="/favicon.ico" />
       </Head>

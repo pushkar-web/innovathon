@@ -84,7 +84,7 @@ export default function AboutUsPage() {
                 AI-Driven Career Development Platform
               </h2>
               <p className="text-gray-600 text-lg">
-                Founded in 2023, Eklavya AI has emerged as an innovative platform bridging the gap for students from Tier 2 & Tier 3 colleges. 
+                Founded in 2023, INskillify has emerged as an innovative platform bridging the gap for students from Tier 2 & Tier 3 colleges. 
                 We leverage AI technology and industry expert mentorship to provide personalized learning paths, interview simulations, and 
                 resume analysis, ensuring students develop practical skills that meet industry requirements.
               </p>

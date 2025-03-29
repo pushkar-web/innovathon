@@ -138,7 +138,7 @@ const Footer = () => {
         <div className="max-w-7xl mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-white text-sm">
-              © {currentYear} Eklavya AI. All rights reserved.
+              © {currentYear} INskillify AI. All rights reserved.
             </p>
             <div className="flex flex-wrap items-center gap-4 md:gap-6">
               <a href="#" className="text-white hover:text-gray-200 text-sm transition-colors duration-300">Privacy Policy</a>
