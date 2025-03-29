@@ -1,7 +1,7 @@
-# 🚀 Eklavya AI: Ancient Wisdom Meets Modern AI 🧠⚡
+# 🚀 INskillify: Ancient Wisdom Meets Modern AI 🧠⚡
 
-## 🌟 What is Eklavya AI?
-Welcome to **Eklavya AI**, the ultimate AI-powered platform that fuses **ancient wisdom** 🏛️ with **cutting-edge AI** 🤖 to help users become **Job-Ready Professionals**, **Entrepreneurs**, or **Successful Individuals**! 
+## 🌟 What is INskillify?
+Welcome to **INskillify**, the ultimate AI-powered platform that fuses **ancient wisdom** 🏛️ with **cutting-edge AI** 🤖 to help users become **Job-Ready Professionals**, **Entrepreneurs**, or **Successful Individuals**! 
 
 🔥 **Inspired by legendary thinkers like Chanakya, Valmiki, and Sant Tukaram**, our AI mentors guide you through tailored learning paths, skill-building, and career success. 
 
@@ -14,7 +14,7 @@ Welcome to **Eklavya AI**, the ultimate AI-powered platform that fuses **ancient
 ✅ **🏆 Gamification & Leaderboard** – Compete, earn XP, and get rewarded!
 
 ## 🎥 Watch the Introduction Video 🎬
-[![Eklavya AI Video](https://img.youtube.com/vi/1NsZzhhHPVI8TT2dBxe7ZOeIrBf0Xu7Jz/0.jpg)](https://drive.google.com/file/d/1NsZzhhHPVI8TT2dBxe7ZOeIrBf0Xu7Jz/view?usp=sharing)
+[![INskillify Video](https://img.youtube.com/vi/1NsZzhhHPVI8TT2dBxe7ZOeIrBf0Xu7Jz/0.jpg)](https://drive.google.com/file/d/1NsZzhhHPVI8TT2dBxe7ZOeIrBf0Xu7Jz/view?usp=sharing)
 
 ## 🏆 How It Works? (Super Simple!)
 1️⃣ **Sign Up & Choose Your Path** 🛤️
@@ -58,7 +58,7 @@ npm install
 npm start
 ```
 
-## 🌟 Why Eklavya AI? 🤯
+## 🌟 Why INskillify? 🤯
 🚀 **One-of-a-kind platform blending AI with ancient ethical wisdom!**
 🚀 **AI-powered mentorship, skill-building & career acceleration!**
 🚀 **Gamified learning experience that keeps you engaged!**
